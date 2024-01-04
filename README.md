@@ -99,17 +99,17 @@ lua apitee.lua RUN HOST client 1
 
 
 + META
- + SCHEMA
- + DESCRIPTION -
- + AUTHOR -
- + VERSION - defined version of document 
- + DOC - documentation, description by ur
-   
+  + SCHEMA
+  + DESCRIPTION -
+  + AUTHOR -
+  + VERSION - defined version of document 
+  + DOC - documentation, description by ur
+    
 + USE - list of expected dependencies, required yaml files to include to current yaml
 + GET - list of expected global variables in system for validation purpose
 + API - use an external API-s with api token for services from cloud providers
- + gitlab
- + github
+  + gitlab
+  + github
 + VAR - set local variable
 + FUN - set local function
 + RUN - run script by defined functions
