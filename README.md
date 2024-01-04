@@ -1,8 +1,17 @@
  [docs](http://docs.apitee.com)
 
-IaC solution multiplatform, can provide services based on kubernetes/gitlab/docker in automated way, 
-You write the scenario and the operation script can be easly runneda and updated
+IaC solution multiplatform, can provide services based on kubernetes/gitlab/docker in automated way.
+
+After you write the operation scenario as an yaml script can be easly runned and updated to share the flow for another user.
+
 It's an opened standard for DSL and DEpendency Definition creating for automation and AI/ML integration on any environment with any techstack.
+
+
+## backgrund
+
+Today many automation staff on gitlab is not working from the scrach, 
+You need to configure, and that is the task for APITEE solution.
+We care for sharing the operations know how in a secure way with modular and reusable documented way with option to use just selected part.
 
 ## Secure
 
