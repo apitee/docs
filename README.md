@@ -1,9 +1,12 @@
 # [docs](http://docs.apitee.com)
 
+It's an opened standard for DSL and DEpendency Definition creating for automation and AI/ML integration on any environment with any techstack.
+
 ## Why yaml
 
 The yaml give a benefit to create multilanguage layer with the way to use line by line commands in shell
 The structure is offering grammatics for building the correct sentences with validation
+
 
 
 
