@@ -1,5 +1,7 @@
  [docs](http://docs.apitee.com)
 
+IaC solution multiplatform, can provide services based on kubernetes/gitlbaa/docker in automated way, 
+You write the scenario and the operation script can be easly runneda and updated
 It's an opened standard for DSL and DEpendency Definition creating for automation and AI/ML integration on any environment with any techstack.
 
 ## Why yaml
