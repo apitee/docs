@@ -4,6 +4,12 @@ IaC solution multiplatform, can provide services based on kubernetes/gitlbaa/doc
 You write the scenario and the operation script can be easly runneda and updated
 It's an opened standard for DSL and DEpendency Definition creating for automation and AI/ML integration on any environment with any techstack.
 
+## Usage
+
++ integration for browser, shell, email client
++ integration many platform based on shell/browser client
++ automation for cloud, embedded, edge infrastructure
+
 ## Why yaml
 
 The yaml give a benefit to create multilanguage layer with the way to use line by line commands in shell
