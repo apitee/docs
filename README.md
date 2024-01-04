@@ -31,7 +31,8 @@ The structure is offering grammatics for building the correct sentences with val
 + VERSION
 + GET - require
 + DOC - documentation, description by url
-+ SET - set global variable
++ VAR - set local variable
++ FUN - set local function
 + RUN - run script by defined functions
 
 
