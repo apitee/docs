@@ -1,8 +1,25 @@
  [docs](http://docs.apitee.com)
 
-IaC solution multiplatform, can provide services based on kubernetes/gitlbaa/docker in automated way, 
+IaC solution multiplatform, can provide services based on kubernetes/gitlab/docker in automated way, 
 You write the scenario and the operation script can be easly runneda and updated
 It's an opened standard for DSL and DEpendency Definition creating for automation and AI/ML integration on any environment with any techstack.
+
+## Secure
+
++ private variables
++ passwords
++ credentials
++ api keys
++ rights
++ roles
+
+are not depends the script, sensitive data remains in the script-independent secure handling layer
+as an browser pocket store for passwords and is sharing just data selected to the script in the environment like:
++ gitlab pipeline
++ docker environment
++ private user environment
++ kubernetes cluster
++ ....
 
 ## Usage
 
